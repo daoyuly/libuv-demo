@@ -9,3 +9,4 @@
 
 - 参考文档
 [Node.js源码解析：深入Libuv理解事件循环](https://zhuanlan.zhihu.com/p/35039878)
+[libuv 源码分析]https://blog.butonly.com/posts/node.js/libuv/1-libuv-overview/
